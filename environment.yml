@@ -1,0 +1,11 @@
+name: digit-recognizer
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - keras
+  - pandas
+  - numpy
+  - scikit-learn
+  - tensorflow
+prefix: /home/cita_zane/anaconda3/envs/digit-recognizer
